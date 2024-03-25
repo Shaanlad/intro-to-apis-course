@@ -1,4 +1,16 @@
-# Introduction to APIs
+# Introduction to APIs 2019
+
+## THERE IS A NEWER VERSION FOR 2023!!!!
+
+⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️
+
+This course has been deprecated! That means that you should no longer use it, you should head to the newer 2023 version!
+
+[![Watch the video on freeCodeCamp](https://img.youtube.com/vi/WXsD0ZgxjRw/maxresdefault.jpg)](https://youtu.be/WXsD0ZgxjRw)
+
+[2023 notes](https://twil.io/notes-api-course)
+
+⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️
 
 ## Unit 1 - What is an API
 
@@ -27,7 +39,7 @@ In this unit we'll define what an API, or Application Programming Interface is a
 Don't worry about understanding it, just appreciate their complexity
 
 * [Android MediaPlayer API documentation](https://developer.android.com/reference/android/media/MediaPlayer)
-* [iOS Media Player API documentation](https://developer.android.com/reference/android/media/MediaPlayer)
+* [iOS Media Player API documentation](https://developer.apple.com/documentation/mediaplayer)
 * [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 
 ### Video 3 - Defining API
@@ -48,6 +60,7 @@ Don't worry about understanding it, just appreciate their complexity
 ### Video 5 - How the web works
 
 * [Wikipedia - HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [mdn - How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 * [Space Jam Website](http://www.spacejam.com)
 
 ### Video 6 - RESTful API Constraint Scavenger Hunt
@@ -216,3 +229,7 @@ Please text `FEEDBACK` to me at [(503) 461-5537](tel:+15034615537) and let me kn
 [@craigsdennis](https://twitter.com/craigsdennis)
 
 PS. If you want to keep on learning for free, I can't recommend [the video game TwilioQuest 🎮](https://twilio.com/quest?utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis) enough.
+
+#### 📚 - Learn more
+
+* [📹 Understanding Webhooks on freeCodeCamp](https://www.youtube.com/watch?v=41NOoEz3Tzc) is a course I made about reverse APIs, APIs that call you instead of you calling them. Come hang out some more!
